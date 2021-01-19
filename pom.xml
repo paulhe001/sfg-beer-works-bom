@@ -554,7 +554,7 @@
         <connection>scm:git:git@github.com:paulhe001/sfg-beer-works-bom.git</connection>
         <developerConnection>scm:git:git@github.com:paulhe001/sfg-beer-works-bom.git</developerConnection>
         <url>https://github.com/paulhe001/sfg-beer-works-bom</url>
-        <tag>sfg-beer-works-bom-1.0.30</tag>
+        <tag>sfg-beer-works-bom-1.0.35</tag>
     </scm>
 
     <issueManagement>
