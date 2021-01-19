@@ -551,14 +551,14 @@
     </profiles>
 
     <scm>
-        <connection>scm:git:git@github.com:sfg-beer-works/sfg-beer-works-bom.git</connection>
-        <developerConnection>scm:git:git@github.com:sfg-beer-works/sfg-beer-works-bom.git</developerConnection>
-        <url>https://github.com/sfg-beer-works/sfg-beer-works-bom</url>
+        <connection>scm:git:git@github.com:paulhe001/sfg-beer-works-bom.git</connection>
+        <developerConnection>scm:git:git@github.com:paulhe001/sfg-beer-works-bom.git</developerConnection>
+        <url>https://github.com/paulhe001/sfg-beer-works-bom</url>
         <tag>sfg-beer-works-bom-1.0.30</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/sfg-beer-works/sfg-beer-works/issues</url>
+        <url>https://github.com/paulhe001/sfg-beer-works-bom.git/issues</url>
         <system>GitHub</system>
     </issueManagement>
 
